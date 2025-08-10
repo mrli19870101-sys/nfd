@@ -13,11 +13,11 @@
 
 总的来说就是你给我 90 元我帮你充值 100 元的话费，把你的手机号码添加到我的后台.
 ———————
-平台管理地址：https://yuanren.chadan.xyz/agent.php/admin/index.html 👈🏻点击可直接复制
+平台管理地址：https://yuanren.chadan.xyz/agent.php/admin/index.html
 
-登录账户：猿人演示 👈🏻点击可直接复制
+登录账户：猿人演示
 
-初始密码：Aa123456 👈🏻点击可直接复制
+初始密码：Aa123456
 
 🔎温馨提示：该账号仅作为演示，请勿在此账号进行余额充值。
 ———————
@@ -26,6 +26,6 @@
 ———————
 🔔如需要开户：请复制下面的U地址并转入对应USDT，交易成功后截图发送给我们，我们将安排客服帮助你完成开户!
 
-TXXm2EjmDBEYMjdsSj7D7AL9B87NV1irrr 👈🏻点击可直接复制
+TXXm2EjmDBEYMjdsSj7D7AL9B87NV1irrr
 
 交易后发送交易成功的截图，然后发送一个你自定义的用户名作为你的平台登录名给我们!
