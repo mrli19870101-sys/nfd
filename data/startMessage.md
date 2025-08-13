@@ -1,1 +1,2 @@
-您好，这里是人工在线客服（@DaYuanRen），请问有什么需要帮助？
+WELCOME_MESSAGE="您好，这里是人工在线客服（@DaYuanRen），请问有什么需要帮助？"
+
